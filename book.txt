@@ -1,0 +1,73 @@
+http://ipetrovich.blogspot.com/2016/01/swift-programming-big-nerd-ranch-guide.html
+
+
+https://drive.google.com/file/d/0Bxv4_x4GJ3ZaUzd1UlhrOW1VQnc/view
+
+http://www.codingexplorer.com/tuples-in-swift-create-read-and-return/
+
+https://www.appcoda.com/login-signup-parse-swift/
+
+http://www.sketchappsources.com/search_ios-app.html
+
+http://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer/
+
+https://developer.xamarin.com/guides/mac/getting_started/installation/ (learn-XAMARIN)
+
+http://kickass.cd
+
+
+https://icons8.com/web-app/for/all/search
+
+https://www.thorntech.com/2015/08/want-your-swift-app-to-scroll-in-two-directions-like-netflix-heres-how/ (ScrollView in TableView)
+
+http://localhost:1111/swagger-ui.html
+
+git reset --hard origin/FickryBranch
+
+https://medium.mybridge.co/39-open-source-swift-ui-libraries-for-ios-app-development-da1f8dc61a0f#.9sjmyombh 
+
+
+
+
+
+
+https://github.com/nicklockwood/iCarousel
+
+http://www.turkiyeburslari.gov.tr/haberler/799-2016-turkiye-burslari-basvurulari-basliyor-
+
+https://bobleesj.gitbooks.io/bob-s-learning-journey/content/WORK.html  (tutorial)
+
+https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppDistributionGuide/ConfiguringYourApp/ConfiguringYourApp.html#//apple_ref/doc/uid/TP40012582-CH28-SW2  (Launch App No deploy)http://stackoverflow.com/questions/11251340/convert-between-uiimage-and-base64-string (image byte code)
+
+http://stackoverflow.com/questions/28709964/how-do-i-create-an-image-from-a-base64-encoded-string-in-swift (image byte code)
+
+
+
+
+(PDF Genarator) https://github.com/sgr-ksmt/PDFGenerator
+
+
+
+
+(Send email by swift 3)  https://stackoverflow.com/questions/40887721/sending-an-email-from-swift-3 
+
+
+
+(MEAN STACK Rest API) http://www.bogotobogo.com/MEAN-Stack/Building-REST-API-with-Node-Mongodb.php
+
+(swift form libray) https://github.com/xmartlabs/Eureka
+
+(All iOS 3 party libray) https://github.com/Wolg/awesome-swift
+
+(Slide Menu Swift) https://github.com/dekatotoro/SlideMenuControllerSwift
+
+(Videos learning iOS 11 from paid to professional ) https://www.freetutorials.us/ios-11-swift-4-from-beginner-to-paid-professional/
+
+
+vwya-hmgn-hozw-xgwn
+
+(dynamic tableCell hight)https://www.hackingwithswift.com/read/32/2/automatically-resizing-uitableviewcells-with-dynamic-type-and-nsattributedstring
+
+(iOS library) https://github.com/vsouza/awesome-ios#font
+
+
